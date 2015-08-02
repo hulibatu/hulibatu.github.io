@@ -1,2 +1,4 @@
-# hulibatu.github.io
-糊里八涂
+# About
+
+Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+
